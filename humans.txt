@@ -1,0 +1,12 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+	Programmer: Bradley Schaefer
+	Contact: bradley [at] anythingsocial.com
+	Twitter: @soulcutter
+	From: USA
+
+/* SITE */
+	Language:English
+	Doctype:HTML5
